@@ -68,6 +68,7 @@
 - Added the `com.apple.product-type.metal-library` PBXProductType [#576](https://github.com/tuist/XcodeProj/pull/576) by [@deatondg](https://github.com/deatondg).
 - Deprecate PBXBuildPhase.type() function https://github.com/tuist/XcodeProj/pull/571 by [@marciniwanicki](https://github.com/marciniwanicki).
 - Added `runOncePerArchitecture` attribute to `PBXBuildRule` https://github.com/tuist/XcodeProj/pull/570 by @sascha
+- Add XCSchemeManagement struct https://github.com/tuist/XcodeProj/pull/565 by @pepibumur.
 
 ## 7.16.0 - Cieza
 
